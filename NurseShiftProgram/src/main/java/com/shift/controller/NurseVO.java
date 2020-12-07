@@ -1,4 +1,4 @@
-package com.shift.myshift;
+package com.shift.controller;
 
 public class NurseVO {
 	String type, birthday;
